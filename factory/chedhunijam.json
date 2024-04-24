@@ -1,0 +1,9 @@
+{
+	"name": "chedhunijam",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49e356db-057d-4429-a42c-5bd0a2d10310",
+		"tenantId": "de08c407-19b9-427d-9fe8-edf254300ca7"
+	}
+}
