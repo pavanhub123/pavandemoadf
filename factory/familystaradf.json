@@ -1,0 +1,9 @@
+{
+	"name": "familystaradf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4536b09-0395-4eb2-8465-4eb5e159d88b",
+		"tenantId": "de08c407-19b9-427d-9fe8-edf254300ca7"
+	}
+}
